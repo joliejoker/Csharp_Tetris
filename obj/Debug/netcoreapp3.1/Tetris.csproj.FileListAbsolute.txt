@@ -1,0 +1,5 @@
+C:\Users\m.pedrosa.de.lima\source\repos\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\m.pedrosa.de.lima\source\repos\Tetris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\m.pedrosa.de.lima\source\repos\Tetris\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\m.pedrosa.de.lima\source\repos\Tetris\obj\Debug\netcoreapp3.1\Tetris_MarkupCompile.cache
+C:\Users\m.pedrosa.de.lima\source\repos\Tetris\obj\Debug\netcoreapp3.1\Tetris_MarkupCompile.lref
